@@ -1,0 +1,8 @@
+Tea,101,4.9
+Coffee,101,4.8
+Paper,102,0.8
+Eraser,102,1.0
+Pencil,102,0.9
+Apple,103,2.6
+Banana,103,4.0
+Orange,103,2.3
